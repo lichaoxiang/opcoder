@@ -3,7 +3,7 @@ Django==2.1.10
 django-appconf==1.0.3
 django-imagekit==4.0.2
 pilkit==2.0
-Pillow==6.1.0
+Pillow==6.2.0
 PyMySQL==0.9.3
 pytz==2019.2
 six==1.12.0
